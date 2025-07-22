@@ -5,7 +5,7 @@
 有BUG可留言加微
 
 #### 软件架构
-Java + SpringBoot + 微信小程序 + Mybatis + Mysql
+Java + SSM + 微信小程序 + Mybatis + Mysql
 
 
 #### 项目功能说明
